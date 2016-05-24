@@ -1,5 +1,6 @@
 # Angular PDF Viewer
 
+A fork of (https://github.com/winkerVSbecks/angular-pdf-viewer)
 An AngularJS directive to display PDFs. [DEMO](http://codepen.io/winkerVSbecks/full/50010e383d0f80deab97858571400d86/)
 
 ## Dependencies
